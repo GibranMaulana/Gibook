@@ -24,7 +24,6 @@ public class AdminDashboardController {
             .filter(h -> h.getOwnerId() == me.getUserId())
             .findFirst();
 
-        // If already registered, disable Register; else disable View
         registerHotelBtn.setDisable(mine.isPresent());
         viewHotelsBtn   .setDisable(!mine.isPresent());
     }

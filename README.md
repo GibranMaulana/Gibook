@@ -29,11 +29,11 @@ A desktop application for managing hotel registrations, room bookings, and custo
 ---
 
 ## 🗂️ Project Structure
-
+```bash
 src/
 ├── main/
 │ ├── java/com/example/
-│ │ ├── data/ # DAOs & services (BookingService, HotelDAO, AuthService, ...)
+│ │ ├── data/ # DAOs & services(BookingServiceHotelDAO, AuthService, ...)
 │ │ ├── model/ # domain models (Customer, Hotel, Room, BookingHistory, ...)
 │ │ └── ui/ # JavaFX controllers & FXML
 │ └── resources/
