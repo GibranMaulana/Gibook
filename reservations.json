@@ -1,0 +1,361 @@
+[ {
+  "room" : {
+    "id" : 1,
+    "name" : "1",
+    "status" : false,
+    "price" : 200000.0
+  },
+  "guestName" : "gibran",
+  "checkIn" : "2025-05-23",
+  "checkOut" : "2025-05-24"
+}, {
+  "room" : {
+    "id" : 1,
+    "name" : "20",
+    "status" : false,
+    "price" : 900000.0
+  },
+  "guestName" : "ibam",
+  "checkIn" : "2025-05-23",
+  "checkOut" : "2025-05-24"
+}, {
+  "room" : {
+    "id" : 1190603339,
+    "name" : "standar 2",
+    "status" : false,
+    "price" : 300000.0
+  },
+  "guestName" : "book",
+  "checkIn" : "2025-05-23",
+  "checkOut" : "2025-05-24"
+}, {
+  "room" : {
+    "id" : 1799865148,
+    "name" : "standart 1",
+    "status" : false,
+    "price" : 300000.0
+  },
+  "guestName" : "ibam",
+  "checkIn" : "2025-05-23",
+  "checkOut" : "2025-05-25"
+}, {
+  "room" : {
+    "id" : 37136399,
+    "name" : "double-1",
+    "status" : false,
+    "price" : 200000.0
+  },
+  "guestName" : "bamm",
+  "checkIn" : "2025-05-23",
+  "checkOut" : "2025-05-24"
+}, {
+  "room" : {
+    "id" : 2,
+    "name" : "20",
+    "status" : false,
+    "price" : 900000.0
+  },
+  "guestName" : "rafael",
+  "checkIn" : "2025-05-23",
+  "checkOut" : "2025-05-24"
+}, {
+  "room" : {
+    "id" : 990243535,
+    "name" : "suite-2",
+    "status" : false,
+    "price" : 950000.0
+  },
+  "guestName" : "gibran",
+  "checkIn" : "2025-05-24",
+  "checkOut" : "2025-05-25"
+}, {
+  "room" : {
+    "id" : 473432194,
+    "name" : "suite-1",
+    "status" : false,
+    "price" : 950000.0
+  },
+  "guestName" : "gibran",
+  "checkIn" : "2025-05-24",
+  "checkOut" : "2025-05-26"
+}, {
+  "room" : {
+    "id" : 1190603339,
+    "name" : "standar 2",
+    "status" : false,
+    "price" : 300000.0
+  },
+  "guestName" : "test",
+  "checkIn" : "2025-05-24",
+  "checkOut" : "2025-05-25"
+}, {
+  "room" : {
+    "id" : 1799865148,
+    "name" : "standart 1",
+    "status" : false,
+    "price" : 300000.0
+  },
+  "guestName" : "gibran",
+  "checkIn" : "2025-05-29",
+  "checkOut" : "2025-05-31"
+}, {
+  "room" : {
+    "id" : 1267915945,
+    "name" : "standar-2",
+    "status" : false,
+    "price" : 450000.0
+  },
+  "guestName" : "testing",
+  "checkIn" : "2025-05-24",
+  "checkOut" : "2025-05-25"
+}, {
+  "room" : {
+    "id" : 1219927970,
+    "name" : "suite-1",
+    "status" : false,
+    "price" : 300000.0
+  },
+  "guestName" : "test",
+  "checkIn" : "2025-05-31",
+  "checkOut" : "2025-06-01"
+}, {
+  "room" : {
+    "id" : 972450296,
+    "name" : "standar-1",
+    "status" : false,
+    "price" : 450000.0
+  },
+  "guestName" : "gibran",
+  "checkIn" : "2025-05-24",
+  "checkOut" : "2025-05-25"
+}, {
+  "room" : {
+    "id" : 473432194,
+    "name" : "suite-1",
+    "status" : false,
+    "price" : 950000.0
+  },
+  "guestName" : "test",
+  "checkIn" : "2025-05-24",
+  "checkOut" : "2025-05-25"
+}, {
+  "room" : {
+    "id" : 37136399,
+    "name" : "double-1",
+    "status" : false,
+    "price" : 200000.0
+  },
+  "guestName" : "test",
+  "checkIn" : "2025-05-26",
+  "checkOut" : "2025-05-28"
+}, {
+  "room" : {
+    "id" : 1531341091,
+    "name" : "standar-2",
+    "status" : false,
+    "price" : 200000.0
+  },
+  "guestName" : "test",
+  "checkIn" : "2025-07-12",
+  "checkOut" : "2025-08-09"
+}, {
+  "room" : {
+    "id" : 1799865148,
+    "name" : "standart 1",
+    "status" : true,
+    "price" : 300000.0
+  },
+  "guestName" : "test",
+  "checkIn" : "2025-05-29",
+  "checkOut" : "2025-05-30"
+}, {
+  "room" : {
+    "id" : 2,
+    "name" : "20",
+    "status" : false,
+    "price" : 900000.0
+  },
+  "guestName" : "testt",
+  "checkIn" : "2025-05-08",
+  "checkOut" : "2025-05-16"
+}, {
+  "room" : {
+    "id" : 1278109679,
+    "name" : "standar-1",
+    "status" : false,
+    "price" : 200000.0
+  },
+  "guestName" : "test",
+  "checkIn" : "2025-05-02",
+  "checkOut" : "2025-05-04"
+}, {
+  "room" : {
+    "id" : 1278109679,
+    "name" : "standar-1",
+    "status" : false,
+    "price" : 200000.0
+  },
+  "guestName" : "test",
+  "checkIn" : "2025-04-17",
+  "checkOut" : "2025-04-29"
+}, {
+  "room" : {
+    "id" : 1799865148,
+    "name" : "standart 1",
+    "status" : false,
+    "price" : 300000.0
+  },
+  "guestName" : "est",
+  "checkIn" : "2026-05-08",
+  "checkOut" : "2026-05-23"
+}, {
+  "room" : {
+    "id" : 1190603339,
+    "name" : "standar 2",
+    "status" : false,
+    "price" : 300000.0
+  },
+  "guestName" : "tsts",
+  "checkIn" : "2025-05-02",
+  "checkOut" : "2025-05-03"
+}, {
+  "room" : {
+    "id" : 1190603339,
+    "name" : "standar 2",
+    "status" : false,
+    "price" : 300000.0
+  },
+  "guestName" : "gibran customer",
+  "checkIn" : "2025-05-25",
+  "checkOut" : "2025-05-26"
+}, {
+  "room" : {
+    "id" : 1799865148,
+    "name" : "standart 1",
+    "status" : false,
+    "price" : 300000.0
+  },
+  "guestName" : "testign",
+  "checkIn" : "2025-05-25",
+  "checkOut" : "2025-05-26"
+}, {
+  "room" : {
+    "id" : 1278109679,
+    "name" : "standar-1",
+    "status" : false,
+    "price" : 200000.0
+  },
+  "guestName" : "test",
+  "checkIn" : "2025-05-29",
+  "checkOut" : "2025-05-30"
+}, {
+  "room" : {
+    "id" : 1278109679,
+    "name" : "standar-1",
+    "status" : true,
+    "price" : 200000.0
+  },
+  "guestName" : "tests",
+  "checkIn" : "2025-05-11",
+  "checkOut" : "2025-05-12"
+}, {
+  "room" : {
+    "id" : 2,
+    "name" : "20",
+    "status" : false,
+    "price" : 900000.0
+  },
+  "guestName" : "wanttotse",
+  "checkIn" : "2025-05-20",
+  "checkOut" : "2025-05-21"
+}, {
+  "room" : {
+    "id" : 1,
+    "name" : "1",
+    "status" : false,
+    "price" : 200000.0
+  },
+  "guestName" : "remo",
+  "checkIn" : "2025-05-28",
+  "checkOut" : "2025-05-29"
+}, {
+  "room" : {
+    "id" : 1638375997,
+    "name" : "luxury-3",
+    "status" : false,
+    "price" : 300000.0
+  },
+  "guestName" : "test",
+  "checkIn" : "2025-05-28",
+  "checkOut" : "2025-05-30"
+}, {
+  "room" : {
+    "id" : 990243535,
+    "name" : "suite-2",
+    "status" : false,
+    "price" : 950000.0
+  },
+  "guestName" : "gibran",
+  "checkIn" : "2025-05-03",
+  "checkOut" : "2025-05-06"
+}, {
+  "room" : {
+    "id" : 1086634837,
+    "name" : "luxury-1",
+    "status" : false,
+    "price" : 300000.0
+  },
+  "guestName" : "tests",
+  "checkIn" : "2025-06-25",
+  "checkOut" : "2025-06-27"
+}, {
+  "room" : {
+    "id" : 1638375997,
+    "name" : "luxury-3",
+    "status" : false,
+    "price" : 300000.0
+  },
+  "guestName" : "gibrancustomer",
+  "checkIn" : "2025-07-03",
+  "checkOut" : "2025-07-11"
+}, {
+  "room" : {
+    "id" : 1638375997,
+    "name" : "luxury-3",
+    "status" : true,
+    "price" : 300000.0
+  },
+  "guestName" : "gibran",
+  "checkIn" : "2027-05-01",
+  "checkOut" : "2027-05-08"
+}, {
+  "room" : {
+    "id" : 1638375997,
+    "name" : "luxury-3",
+    "status" : true,
+    "price" : 300000.0
+  },
+  "guestName" : "gibran",
+  "checkIn" : "2025-07-03",
+  "checkOut" : "2025-07-16"
+}, {
+  "room" : {
+    "id" : 1278109679,
+    "name" : "standar-1",
+    "status" : true,
+    "price" : 200000.0
+  },
+  "guestName" : "ginra",
+  "checkIn" : "2025-05-17",
+  "checkOut" : "2025-05-18"
+}, {
+  "room" : {
+    "id" : 1799865148,
+    "name" : "standart 1",
+    "status" : false,
+    "price" : 300000.0
+  },
+  "guestName" : "gibran",
+  "checkIn" : "2025-05-25",
+  "checkOut" : "2025-05-26"
+} ]

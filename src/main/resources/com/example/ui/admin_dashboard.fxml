@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<StackPane xmlns="http://javafx.com/javafx"
+           xmlns:fx="http://javafx.com/fxml/1"
+           fx:controller="com.example.ui.AdminDashboardController"
+           stylesheets="@styles.css"
+           alignment="CENTER">
+
+  <VBox styleClass="root-container"
+        spacing="20"
+        maxWidth="400"
+        alignment="CENTER">
+
+    <Label text="Admin Dashboard" styleClass="heading"/>
+
+    <VBox spacing="15" alignment="CENTER" maxWidth="200">
+      <Button text="Register New Hotel"
+              fx:id="registerHotelBtn"
+              onAction="#onRegisterHotel"
+              styleClass="btn-primary"
+              maxWidth="Infinity"/>
+      <Button text="View My Hotels"
+              fx:id="viewHotelsBtn"
+              onAction="#onViewHotels"
+              styleClass="btn-primary"
+              maxWidth="Infinity"/>
+      <Button text="Logout"
+              onAction="#onLogout"
+              styleClass="btn-secondary"
+              maxWidth="Infinity"/>
+    </VBox>
+  </VBox>
+</StackPane>

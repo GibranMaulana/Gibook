@@ -1,0 +1,415 @@
+[ {
+  "userId" : 1941779655,
+  "username" : "test",
+  "password" : "test",
+  "role" : "Customer",
+  "bookingHistories" : [ {
+    "customerId" : 1941779655,
+    "bookingPrice" : 950000,
+    "bookingDate" : "2025-05-24",
+    "bookingDays" : 1,
+    "rtId" : 0,
+    "roomId" : 473432194,
+    "hotel" : {
+      "hotelId" : 2058036546,
+      "ownerId" : 2057938799,
+      "hotelName" : "hotel admin 2",
+      "hotelAddr" : "jl bendungan jago, kec utan panjang",
+      "roomTypeList" : [ {
+        "id" : 1726291485,
+        "name" : "suite",
+        "price" : 950000,
+        "totalRoom" : 2,
+        "roomList" : [ {
+          "id" : 473432194,
+          "name" : "suite-1",
+          "status" : false,
+          "price" : 950000.0
+        }, {
+          "id" : 990243535,
+          "name" : "suite-2",
+          "status" : true,
+          "price" : 950000.0
+        } ]
+      }, {
+        "id" : 1129534231,
+        "name" : "standar",
+        "price" : 450000,
+        "totalRoom" : 2,
+        "roomList" : [ {
+          "id" : 972450296,
+          "name" : "standar-1",
+          "status" : false,
+          "price" : 450000.0
+        }, {
+          "id" : 1267915945,
+          "name" : "standar-2",
+          "status" : false,
+          "price" : 450000.0
+        } ]
+      } ],
+      "totalRT" : 2,
+      "totalRoom" : 4
+    }
+  }, {
+    "customerId" : 1941779655,
+    "bookingPrice" : 400000,
+    "bookingDate" : "2025-05-26",
+    "bookingDays" : 2,
+    "rtId" : 0,
+    "roomId" : 37136399,
+    "hotel" : {
+      "hotelId" : 2063625723,
+      "ownerId" : 2063603364,
+      "hotelName" : "my hotels",
+      "hotelAddr" : "jl kedondoing",
+      "roomTypeList" : [ {
+        "id" : 568785040,
+        "name" : "double",
+        "price" : 200000,
+        "totalRoom" : 1,
+        "roomList" : [ {
+          "id" : 37136399,
+          "name" : "double-1",
+          "status" : false,
+          "price" : 200000.0
+        } ]
+      } ],
+      "totalRT" : 1,
+      "totalRoom" : 1
+    }
+  }, {
+    "customerId" : 1941779655,
+    "bookingPrice" : 5600000,
+    "bookingDate" : "2025-07-12",
+    "bookingDays" : 28,
+    "rtId" : 1,
+    "roomId" : 1531341091,
+    "hotel" : {
+      "hotelId" : 36559703,
+      "ownerId" : 36539141,
+      "hotelName" : "t hotel",
+      "hotelAddr" : "t hotel",
+      "roomTypeList" : [ {
+        "id" : 122295892,
+        "name" : "luxury",
+        "price" : 300000,
+        "totalRoom" : 2,
+        "roomList" : [ {
+          "id" : 1086634837,
+          "name" : "luxury-1",
+          "status" : true,
+          "price" : 300000.0
+        }, {
+          "id" : 438198423,
+          "name" : "luxury-2",
+          "status" : true,
+          "price" : 300000.0
+        } ]
+      }, {
+        "id" : 1656116163,
+        "name" : "standart",
+        "price" : 200000,
+        "totalRoom" : 3,
+        "roomList" : [ {
+          "id" : 1278109679,
+          "name" : "standar-1",
+          "status" : true,
+          "price" : 200000.0
+        }, {
+          "id" : 1531341091,
+          "name" : "standar-2",
+          "status" : false,
+          "price" : 200000.0
+        }, {
+          "id" : 1239536232,
+          "name" : "standar-3",
+          "status" : false,
+          "price" : 200000.0
+        } ]
+      } ],
+      "totalRT" : 2,
+      "totalRoom" : 5
+    }
+  } ]
+}, {
+  "userId" : 1943162922,
+  "username" : "testing",
+  "password" : "testing",
+  "role" : "Customer",
+  "bookingHistories" : [ ]
+}, {
+  "userId" : 1,
+  "username" : "customer1",
+  "password" : "pass1",
+  "role" : "Customer",
+  "bookingHistories" : [ ]
+}, {
+  "userId" : 2,
+  "username" : "customer2",
+  "password" : "pass2",
+  "role" : "Customer",
+  "bookingHistories" : [ ]
+}, {
+  "userId" : 3,
+  "username" : "customer3",
+  "password" : "pass3",
+  "role" : "Customer",
+  "bookingHistories" : [ ]
+}, {
+  "userId" : 4,
+  "username" : "customer4",
+  "password" : "pass4",
+  "role" : "Customer",
+  "bookingHistories" : [ ]
+}, {
+  "userId" : 5,
+  "username" : "customer5",
+  "password" : "pass5",
+  "role" : "Customer",
+  "bookingHistories" : [ ]
+}, {
+  "userId" : 6,
+  "username" : "customer6",
+  "password" : "pass6",
+  "role" : "Customer",
+  "bookingHistories" : [ ]
+}, {
+  "userId" : 7,
+  "username" : "customer7",
+  "password" : "pass7",
+  "role" : "Customer",
+  "bookingHistories" : [ ]
+}, {
+  "userId" : 8,
+  "username" : "customer8",
+  "password" : "pass8",
+  "role" : "Customer",
+  "bookingHistories" : [ ]
+}, {
+  "userId" : 9,
+  "username" : "customer9",
+  "password" : "pass9",
+  "role" : "Customer",
+  "bookingHistories" : [ ]
+}, {
+  "userId" : 10,
+  "username" : "customer10",
+  "password" : "pass10",
+  "role" : "Customer",
+  "bookingHistories" : [ ]
+}, {
+  "userId" : 63164565,
+  "username" : "gibrancustomer",
+  "password" : "password",
+  "role" : "Customer",
+  "bookingHistories" : [ {
+    "customerId" : 63164565,
+    "bookingPrice" : 900000,
+    "bookingDate" : "2025-05-20",
+    "bookingDays" : 1,
+    "rtId" : 0,
+    "roomId" : 2,
+    "hotel" : {
+      "hotelId" : 1989496001,
+      "ownerId" : 1941142338,
+      "hotelName" : "gibran",
+      "hotelAddr" : "hotel",
+      "roomTypeList" : [ {
+        "id" : 1992637100,
+        "name" : "suite",
+        "price" : 900000,
+        "totalRoom" : 2,
+        "roomList" : [ {
+          "id" : 1,
+          "name" : "20",
+          "status" : true,
+          "price" : 900000.0
+        }, {
+          "id" : 2,
+          "name" : "20",
+          "status" : false,
+          "price" : 900000.0
+        } ]
+      }, {
+        "id" : 639518677,
+        "name" : "standart",
+        "price" : 300000,
+        "totalRoom" : 2,
+        "roomList" : [ {
+          "id" : 1799865148,
+          "name" : "standart 1",
+          "status" : true,
+          "price" : 300000.0
+        }, {
+          "id" : 1190603339,
+          "name" : "standar 2",
+          "status" : false,
+          "price" : 300000.0
+        } ]
+      } ],
+      "totalRT" : 2,
+      "totalRoom" : 4
+    }
+  }, {
+    "customerId" : 63164565,
+    "bookingPrice" : 2850000,
+    "bookingDate" : "2025-05-03",
+    "bookingDays" : 3,
+    "rtId" : 0,
+    "roomId" : 990243535,
+    "hotel" : {
+      "hotelId" : 2058036546,
+      "ownerId" : 2057938799,
+      "hotelName" : "hotel admin 2",
+      "hotelAddr" : "jl bendungan jago, kec utan panjang",
+      "roomTypeList" : [ {
+        "id" : 1726291485,
+        "name" : "suite",
+        "price" : 950000,
+        "totalRoom" : 2,
+        "roomList" : [ {
+          "id" : 473432194,
+          "name" : "suite-1",
+          "status" : false,
+          "price" : 950000.0
+        }, {
+          "id" : 990243535,
+          "name" : "suite-2",
+          "status" : false,
+          "price" : 950000.0
+        } ]
+      }, {
+        "id" : 1129534231,
+        "name" : "standar",
+        "price" : 450000,
+        "totalRoom" : 2,
+        "roomList" : [ {
+          "id" : 972450296,
+          "name" : "standar-1",
+          "status" : false,
+          "price" : 450000.0
+        }, {
+          "id" : 1267915945,
+          "name" : "standar-2",
+          "status" : false,
+          "price" : 450000.0
+        } ]
+      } ],
+      "totalRT" : 2,
+      "totalRoom" : 4
+    }
+  }, {
+    "customerId" : 63164565,
+    "bookingPrice" : 600000,
+    "bookingDate" : "2025-06-25",
+    "bookingDays" : 2,
+    "rtId" : 0,
+    "roomId" : 1086634837,
+    "hotel" : {
+      "hotelId" : 36559703,
+      "ownerId" : 36539141,
+      "hotelName" : "t hotel",
+      "hotelAddr" : "t hotel",
+      "roomTypeList" : [ {
+        "id" : 122295892,
+        "name" : "luxury",
+        "price" : 300000,
+        "totalRoom" : 3,
+        "roomList" : [ {
+          "id" : 1086634837,
+          "name" : "luxury-1",
+          "status" : false,
+          "price" : 300000.0
+        }, {
+          "id" : 438198423,
+          "name" : "luxury-2",
+          "status" : true,
+          "price" : 300000.0
+        }, {
+          "id" : 1638375997,
+          "name" : "luxury-3",
+          "status" : true,
+          "price" : 300000.0
+        } ]
+      }, {
+        "id" : 1656116163,
+        "name" : "standart",
+        "price" : 200000,
+        "totalRoom" : 3,
+        "roomList" : [ {
+          "id" : 1278109679,
+          "name" : "standar-1",
+          "status" : true,
+          "price" : 200000.0
+        }, {
+          "id" : 1531341091,
+          "name" : "standar-2",
+          "status" : false,
+          "price" : 200000.0
+        }, {
+          "id" : 1239536232,
+          "name" : "standar-3",
+          "status" : false,
+          "price" : 200000.0
+        } ]
+      } ],
+      "totalRT" : 2,
+      "totalRoom" : 6
+    }
+  }, {
+    "customerId" : 63164565,
+    "bookingPrice" : 300000,
+    "bookingDate" : "2025-05-25",
+    "bookingDays" : 1,
+    "rtId" : 1,
+    "roomId" : 1799865148,
+    "hotel" : {
+      "hotelId" : 1989496001,
+      "ownerId" : 1941142338,
+      "hotelName" : "gibran",
+      "hotelAddr" : "hotel",
+      "roomTypeList" : [ {
+        "id" : 1992637100,
+        "name" : "suite",
+        "price" : 900000,
+        "totalRoom" : 2,
+        "roomList" : [ {
+          "id" : 1,
+          "name" : "20",
+          "status" : true,
+          "price" : 900000.0
+        }, {
+          "id" : 2,
+          "name" : "20",
+          "status" : false,
+          "price" : 900000.0
+        } ]
+      }, {
+        "id" : 639518677,
+        "name" : "standart",
+        "price" : 300000,
+        "totalRoom" : 2,
+        "roomList" : [ {
+          "id" : 1799865148,
+          "name" : "standart 1",
+          "status" : true,
+          "price" : 300000.0
+        }, {
+          "id" : 1190603339,
+          "name" : "standar 2",
+          "status" : false,
+          "price" : 300000.0
+        } ]
+      } ],
+      "totalRT" : 2,
+      "totalRoom" : 4
+    }
+  } ]
+}, {
+  "userId" : 63752500,
+  "username" : "gibrancustomer1",
+  "password" : "password",
+  "role" : "Customer",
+  "bookingHistories" : [ ]
+} ]

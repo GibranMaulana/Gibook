@@ -1,0 +1,273 @@
+[ {
+  "hotelId" : 2003111684,
+  "ownerId" : 2003080871,
+  "hotelName" : "bam hotel",
+  "hotelAddr" : "solo jebres",
+  "roomTypeList" : [ {
+    "id" : 2003140688,
+    "name" : "standart",
+    "price" : 200000,
+    "totalRoom" : 1,
+    "roomList" : [ {
+      "id" : 1,
+      "name" : "1",
+      "status" : true,
+      "price" : 200000.0
+    } ]
+  } ],
+  "totalRT" : 1,
+  "totalRoom" : 1
+}, {
+  "hotelId" : 1001,
+  "ownerId" : 101,
+  "hotelName" : "Hotel Alpha",
+  "hotelAddr" : "123 Alpha Ave",
+  "roomTypeList" : [ ],
+  "totalRT" : 0,
+  "totalRoom" : 0
+}, {
+  "hotelId" : 1002,
+  "ownerId" : 102,
+  "hotelName" : "Hotel Bravo",
+  "hotelAddr" : "456 Bravo Blvd",
+  "roomTypeList" : [ ],
+  "totalRT" : 0,
+  "totalRoom" : 0
+}, {
+  "hotelId" : 1003,
+  "ownerId" : 103,
+  "hotelName" : "Hotel Charlie",
+  "hotelAddr" : "789 Charlie Ct",
+  "roomTypeList" : [ ],
+  "totalRT" : 0,
+  "totalRoom" : 0
+}, {
+  "hotelId" : 1004,
+  "ownerId" : 104,
+  "hotelName" : "Hotel Delta",
+  "hotelAddr" : "101 Delta Dr",
+  "roomTypeList" : [ ],
+  "totalRT" : 0,
+  "totalRoom" : 0
+}, {
+  "hotelId" : 1005,
+  "ownerId" : 105,
+  "hotelName" : "Hotel Echo",
+  "hotelAddr" : "202 Echo St",
+  "roomTypeList" : [ ],
+  "totalRT" : 0,
+  "totalRoom" : 0
+}, {
+  "hotelId" : 1006,
+  "ownerId" : 106,
+  "hotelName" : "Hotel Foxtrot",
+  "hotelAddr" : "303 Foxtrot Rd",
+  "roomTypeList" : [ ],
+  "totalRT" : 0,
+  "totalRoom" : 0
+}, {
+  "hotelId" : 1007,
+  "ownerId" : 107,
+  "hotelName" : "Hotel Golf",
+  "hotelAddr" : "404 Golf Ln",
+  "roomTypeList" : [ ],
+  "totalRT" : 0,
+  "totalRoom" : 0
+}, {
+  "hotelId" : 1008,
+  "ownerId" : 108,
+  "hotelName" : "Hotel Hotel",
+  "hotelAddr" : "505 Hotel Pkwy",
+  "roomTypeList" : [ ],
+  "totalRT" : 0,
+  "totalRoom" : 0
+}, {
+  "hotelId" : 1009,
+  "ownerId" : 109,
+  "hotelName" : "Hotel India",
+  "hotelAddr" : "606 India Pl",
+  "roomTypeList" : [ ],
+  "totalRT" : 0,
+  "totalRoom" : 0
+}, {
+  "hotelId" : 1010,
+  "ownerId" : 110,
+  "hotelName" : "Hotel Juliet",
+  "hotelAddr" : "707 Juliet Cir",
+  "roomTypeList" : [ ],
+  "totalRT" : 0,
+  "totalRoom" : 0
+}, {
+  "hotelId" : 2004628153,
+  "ownerId" : 2004581059,
+  "hotelName" : "omah hotels",
+  "hotelAddr" : "jalan semangka",
+  "roomTypeList" : [ {
+    "id" : 282083394,
+    "name" : "suite",
+    "price" : 300000,
+    "totalRoom" : 1,
+    "roomList" : [ {
+      "id" : 1219927970,
+      "name" : "suite-1",
+      "status" : false,
+      "price" : 300000.0
+    } ]
+  } ],
+  "totalRT" : 1,
+  "totalRoom" : 1
+}, {
+  "hotelId" : 2058036546,
+  "ownerId" : 2057938799,
+  "hotelName" : "hotel admin 2",
+  "hotelAddr" : "jl bendungan jago, kec utan panjang",
+  "roomTypeList" : [ {
+    "id" : 1726291485,
+    "name" : "suite",
+    "price" : 950000,
+    "totalRoom" : 2,
+    "roomList" : [ {
+      "id" : 473432194,
+      "name" : "suite-1",
+      "status" : false,
+      "price" : 950000.0
+    }, {
+      "id" : 990243535,
+      "name" : "suite-2",
+      "status" : false,
+      "price" : 950000.0
+    } ]
+  }, {
+    "id" : 1129534231,
+    "name" : "standar",
+    "price" : 450000,
+    "totalRoom" : 2,
+    "roomList" : [ {
+      "id" : 972450296,
+      "name" : "standar-1",
+      "status" : false,
+      "price" : 450000.0
+    }, {
+      "id" : 1267915945,
+      "name" : "standar-2",
+      "status" : false,
+      "price" : 450000.0
+    } ]
+  } ],
+  "totalRT" : 2,
+  "totalRoom" : 4
+}, {
+  "hotelId" : 2063625723,
+  "ownerId" : 2063603364,
+  "hotelName" : "my hotels",
+  "hotelAddr" : "jl kedondoing",
+  "roomTypeList" : [ {
+    "id" : 568785040,
+    "name" : "double",
+    "price" : 200000,
+    "totalRoom" : 1,
+    "roomList" : [ {
+      "id" : 37136399,
+      "name" : "double-1",
+      "status" : false,
+      "price" : 200000.0
+    } ]
+  } ],
+  "totalRT" : 1,
+  "totalRoom" : 1
+}, {
+  "hotelId" : 36559703,
+  "ownerId" : 36539141,
+  "hotelName" : "t hotel",
+  "hotelAddr" : "t hotel",
+  "roomTypeList" : [ {
+    "id" : 122295892,
+    "name" : "luxury",
+    "price" : 300000,
+    "totalRoom" : 3,
+    "roomList" : [ {
+      "id" : 1086634837,
+      "name" : "luxury-1",
+      "status" : false,
+      "price" : 300000.0
+    }, {
+      "id" : 438198423,
+      "name" : "luxury-2",
+      "status" : true,
+      "price" : 300000.0
+    }, {
+      "id" : 1638375997,
+      "name" : "luxury-3",
+      "status" : true,
+      "price" : 300000.0
+    } ]
+  }, {
+    "id" : 1656116163,
+    "name" : "standart",
+    "price" : 200000,
+    "totalRoom" : 3,
+    "roomList" : [ {
+      "id" : 1278109679,
+      "name" : "standar-1",
+      "status" : true,
+      "price" : 200000.0
+    }, {
+      "id" : 1531341091,
+      "name" : "standar-2",
+      "status" : false,
+      "price" : 200000.0
+    }, {
+      "id" : 1239536232,
+      "name" : "standar-3",
+      "status" : false,
+      "price" : 200000.0
+    } ]
+  } ],
+  "totalRT" : 2,
+  "totalRoom" : 6
+}, {
+  "hotelId" : 1989496001,
+  "ownerId" : 1941142338,
+  "hotelName" : "gibran",
+  "hotelAddr" : "hotel",
+  "roomTypeList" : [ {
+    "id" : 1992637100,
+    "name" : "suite",
+    "price" : 900000,
+    "totalRoom" : 2,
+    "roomList" : [ {
+      "id" : 1,
+      "name" : "20",
+      "status" : true,
+      "price" : 900000.0
+    }, {
+      "id" : 2,
+      "name" : "20",
+      "status" : false,
+      "price" : 900000.0
+    } ]
+  }, {
+    "id" : 639518677,
+    "name" : "standart",
+    "price" : 300000,
+    "totalRoom" : 3,
+    "roomList" : [ {
+      "id" : 1799865148,
+      "name" : "standart 1",
+      "status" : true,
+      "price" : 300000.0
+    }, {
+      "id" : 1190603339,
+      "name" : "standar 2",
+      "status" : true,
+      "price" : 300000.0
+    }, {
+      "id" : 657500497,
+      "name" : "king",
+      "status" : true,
+      "price" : 0.0
+    } ]
+  } ],
+  "totalRT" : 2,
+  "totalRoom" : 5
+} ]

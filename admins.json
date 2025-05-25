@@ -1,0 +1,120 @@
+[ {
+  "userId" : 1941142338,
+  "username" : "gibransiadmin",
+  "password" : "password",
+  "role" : "HotelAdm",
+  "hotelName" : "gibran hotel",
+  "hotelHistories" : [ ]
+}, {
+  "userId" : 2003080871,
+  "username" : "bam",
+  "password" : "bam",
+  "role" : "HotelAdm",
+  "hotelName" : "bam hotel",
+  "hotelHistories" : [ ]
+}, {
+  "userId" : 2003177828,
+  "username" : "adminUns",
+  "password" : "admin",
+  "role" : "HotelAdm",
+  "hotelName" : "uns motel",
+  "hotelHistories" : [ ]
+}, {
+  "userId" : 2004581059,
+  "username" : "regularAdmin",
+  "password" : "admin",
+  "role" : "HotelAdm",
+  "hotelName" : "omah hotels",
+  "hotelHistories" : [ ]
+}, {
+  "userId" : 2057938799,
+  "username" : "admin2",
+  "password" : "admin2",
+  "role" : "HotelAdm",
+  "hotelName" : "hotel admin 2",
+  "hotelHistories" : [ ]
+}, {
+  "userId" : 101,
+  "username" : "admin1",
+  "password" : "adminpass1",
+  "role" : "HotelAdm",
+  "hotelName" : "Hotel Alpha",
+  "hotelHistories" : [ ]
+}, {
+  "userId" : 103,
+  "username" : "admin3",
+  "password" : "adminpass3",
+  "role" : "HotelAdm",
+  "hotelName" : "Hotel Charlie",
+  "hotelHistories" : [ ]
+}, {
+  "userId" : 104,
+  "username" : "admin4",
+  "password" : "adminpass4",
+  "role" : "HotelAdm",
+  "hotelName" : "Hotel Delta",
+  "hotelHistories" : [ ]
+}, {
+  "userId" : 105,
+  "username" : "admin5",
+  "password" : "adminpass5",
+  "role" : "HotelAdm",
+  "hotelName" : "Hotel Echo",
+  "hotelHistories" : [ ]
+}, {
+  "userId" : 106,
+  "username" : "admin6",
+  "password" : "adminpass6",
+  "role" : "HotelAdm",
+  "hotelName" : "Hotel Foxtrot",
+  "hotelHistories" : [ ]
+}, {
+  "userId" : 107,
+  "username" : "admin7",
+  "password" : "adminpass7",
+  "role" : "HotelAdm",
+  "hotelName" : "Hotel Golf",
+  "hotelHistories" : [ ]
+}, {
+  "userId" : 108,
+  "username" : "admin8",
+  "password" : "adminpass8",
+  "role" : "HotelAdm",
+  "hotelName" : "Hotel Hotel",
+  "hotelHistories" : [ ]
+}, {
+  "userId" : 109,
+  "username" : "admin9",
+  "password" : "adminpass9",
+  "role" : "HotelAdm",
+  "hotelName" : "Hotel India",
+  "hotelHistories" : [ ]
+}, {
+  "userId" : 110,
+  "username" : "admin10",
+  "password" : "adminpass10",
+  "role" : "HotelAdm",
+  "hotelName" : "Hotel Juliet",
+  "hotelHistories" : [ ]
+}, {
+  "userId" : 2063603364,
+  "username" : "newAdmin",
+  "password" : "admin",
+  "role" : "HotelAdm",
+  "hotelName" : "myhotels",
+  "hotelHistories" : [ ]
+}, {
+  "userId" : 36539141,
+  "username" : "t",
+  "password" : "t",
+  "role" : "HotelAdm",
+  "hotelName" : "t",
+  "hotelHistories" : [ ]
+}, {
+  "userId" : 63057543,
+  "username" : "gibranadmin",
+  "password" : "password",
+  "role" : "HotelAdm",
+  "hotelName" : "gibranadminhotel",
+  "hotelHistories" : [ ]
+} ]

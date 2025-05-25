@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?import javafx.geometry.Pos?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<StackPane xmlns="http://javafx.com/javafx"
+           xmlns:fx="http://javafx.com/fxml/1"
+           fx:controller="com.example.ui.HotelRoomsController"
+           stylesheets="@styles.css"
+           alignment="CENTER">
+
+  <VBox alignment="CENTER" spacing="20" maxWidth="900" styleClass="root-container">
+
+    <Label fx:id="hotelHeader" text="Available Rooms" styleClass="heading"/>
+
+    <VBox styleClass="card" alignment="CENTER">
+      <TableView fx:id="roomsTable"
+                 prefHeight="400"
+                 prefWidth="820"
+                 styleClass="table-view room-table">
+
+        <columnResizePolicy>
+          <TableView fx:constant="UNCONSTRAINED_RESIZE_POLICY"/>
+        </columnResizePolicy>
+
+        <columns>
+          <TableColumn text="ID"        fx:id="colRoomId"        prefWidth="210"/>
+          <TableColumn text="Name"      fx:id="colRoomName"      prefWidth="300"/>
+          <TableColumn text="Price"     fx:id="colRoomPrice"     prefWidth="210"/>
+          <TableColumn text="Available" fx:id="colRoomAvail" prefWidth="120"/>
+        </columns>
+      </TableView>
+    </VBox>
+
+    <HBox alignment="CENTER_RIGHT" spacing="15">
+      <Button text="Back"
+              onAction="#onBack"
+              styleClass="btn-secondary"/>
+      <Button text="Book Room"
+              onAction="#onBookRoom"
+              styleClass="btn-primary"/>
+    </HBox>
+  </VBox>
+</StackPane>

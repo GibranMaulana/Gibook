@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?import javafx.geometry.Pos?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<StackPane xmlns="http://javafx.com/javafx"
+           xmlns:fx="http://javafx.com/fxml/1"
+           fx:controller="com.example.ui.HotelListController"
+           stylesheets="@styles.css"
+           alignment="CENTER">
+
+  <VBox alignment="CENTER" spacing="20" maxWidth="900" styleClass="root-container">
+
+  <Label fx:id="welcomeLabel" styleClass="heading"/>
+    <VBox alignment="CENTER_LEFT" spacing="10" styleClass="card" maxWidth="820">
+      <Label text="My Current Bookings" styleClass="heading"/>
+
+      <TableView fx:id="bookingsTable"
+                 prefHeight="200"
+                 styleClass="table-view bookings-table">
+        <columnResizePolicy>
+          <TableView fx:constant="CONSTRAINED_RESIZE_POLICY"/>
+        </columnResizePolicy>
+        <columns>
+          <TableColumn text="Hotel"     fx:id="colBHotel"    prefWidth="200"/>
+          <TableColumn text="Room ID"   fx:id="colBRoomId"   prefWidth="100"/>
+          <TableColumn text="Check-In"  fx:id="colBCheckIn"  prefWidth="150"/>
+          <TableColumn text="Nights"    fx:id="colBNights"   prefWidth="80"/>
+        </columns>
+      </TableView>
+
+      <Button fx:id="undoBtn" text="Undo Last" styleClass="btn-secondary" disable="true" onAction="#onUndo"/>
+    </VBox>
+
+    <VBox styleClass="card" alignment="CENTER">
+
+      <Label text="available hotels" styleClass="heading" />
+
+      <HBox spacing="10">
+        <TextField fx:id="searchField"
+                  promptText="Search by name..."
+                  styleClass="input-field"
+                  maxWidth="600"/>
+        <Button text="Clear" onAction="#onClearSearch" styleClass="btn-secondary"/>
+      </HBox>
+
+      <TableView fx:id="hotelTable"
+                 prefHeight="400"
+                 prefWidth="820"
+                 styleClass="table-view hotel-table">
+
+        <columnResizePolicy>
+          <TableView fx:constant="UNCONSTRAINED_RESIZE_POLICY"/>
+        </columnResizePolicy>
+
+        <columns>
+          <TableColumn text="ID"       fx:id="colId"        prefWidth="120"/>
+          <TableColumn text="Name"     fx:id="colName"      prefWidth="260"/>
+          <TableColumn text="Address"  fx:id="colAddress"   prefWidth="340"/>
+          <TableColumn text="TotalRms" fx:id="colTotalRoom" prefWidth="100"/>
+        </columns>
+      </TableView>
+    </VBox>
+
+    <HBox alignment="CENTER_RIGHT" spacing="15">
+      <Button text="Back"
+              onAction="#onBack"
+              styleClass="btn-secondary"/>
+      <Button text="View Rooms"
+              onAction="#onViewRooms"
+              styleClass="btn-primary"/>
+    </HBox>
+  </VBox>
+</StackPane>

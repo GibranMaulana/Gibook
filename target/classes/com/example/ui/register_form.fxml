@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+
+<VBox xmlns="http://javafx.com/javafx"
+      xmlns:fx="http://javafx.com/fxml/1"
+      fx:controller="com.example.ui.RegisterFormController"
+      styleClass="root-container"
+      spacing="15"
+      alignment="CENTER">
+  <padding>
+    <Insets top="20" right="20" bottom="20" left="20"/>
+  </padding>
+
+<Label fx:id="hotelHeder" text="Create New Account" styleClass="heading"/>
+
+<VBox spacing="10" alignment="CENTER">
+  <TextField fx:id="newUserField"
+             promptText="Username"
+             styleClass="input-field"
+             maxWidth="360"/>
+  <PasswordField fx:id="newPassField"
+                 promptText="Password"
+                 styleClass="input-field"
+                 maxWidth="360"/>
+  <PasswordField fx:id="confirmField"
+                 promptText="Confirm Password"
+                 styleClass="input-field"
+                 maxWidth="360"/>
+  <ChoiceBox fx:id="roleChoice"
+             styleClass="input-field"
+             maxWidth="360"/>
+  <TextField fx:id="hotelNameField"
+             promptText="Hotel Name"
+             styleClass="input-field"
+             maxWidth="360"
+             visible="false"/>
+</VBox>
+
+<HBox spacing="20" alignment="CENTER">
+  <Button text="Submit"
+          onAction="#onSubmit"
+          styleClass="btn-primary"/>
+  <Button text="Back"
+          onAction="#onBack"
+          styleClass="btn-secondary"/>
+</HBox>
+
+<Label fx:id="regErrorLabel"
+       styleClass="error"
+       visible="false"/>
+</VBox>
